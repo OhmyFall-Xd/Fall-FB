@@ -3,5 +3,5 @@
 # cd Fall-FB
 # ls
 # git pull
-# cd Fall-FB
 # python Fall-FB.py
+
