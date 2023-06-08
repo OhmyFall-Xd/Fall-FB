@@ -93,19 +93,38 @@ for z in range(200):
 	if ua_s in ugent:pass
 	else:ugent.append(ua_s)
 	
+
 for xcTeam in range(1000):
+	
+
+	
 	rr = random.randint
+
+	
 	rc = random.choice
-	ngentot1 = f"Dalvik/2.1.0 (Linux; U; Android 9; Nexus 5X Build/N4F26T.{str(rr(111111,199999))}.001) [FBAN/MessengerLite;FBAV/{str(rr(120,150))}.0.0.2.{str(rr(110,150))};FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/{str(rr(200000000,299999999))};FBCR/AXIS; FBMF/Vision;FBBD/Vision;FBDV/Vision3;FBSV/12;FBCA/arm64-v8a:null;FBDM/"+"{density=2.54375,width=720,height=1600};]"        if ngentot1 in ngentott:pass
+
+	ngentot1 = f"Dalvik/2.1.0 (Linux; U; Android 9; Nexus 5X Build/N4F26T.{str(rr(111111,199999))}.001) [FBAN/MessengerLite;FBAV/{str(rr(120,150))}.0.0.2.{str(rr(110,150))};FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/{str(rr(200000000,299999999))};FBCR/AXIS; FBMF/Vision;FBBD/Vision;FBDV/Vision3;FBSV/12;FBCA/arm64-v8a:null;FBDM/"+"{density=2.54375,width=720,height=1600};]"
+
+	if ngentot1 in ngentott:pass
+
 	else:ngentott.append(ngentot1)
+
 	ngentot2 = f"Dalvik/2.1.0 (Linux; U; Android 12.0; RMX3350 Build/PPR1.{str(rr(111111,199999))}.001) [FBAN/MessengerLite;FBAV/{str(rr(120,150))}.0.0.2.{str(rr(110,150))};FBPN/com.facebook.lite; FBLC/in_ID;FBBV/{str(rr(200000000,299999999))};FBCR/IndosatOoredoo;FBMF/Realme;FBBD/Realme;FBDV/RMX3350; FBSV/8;FBCA/arm64-v8a:null;FBDM/"+"(density=2.0,width=720,height=1412};]"
+
 	if ngentot2 in ngentott:pass
+
 	else:ngentott.append(ngentot2)
+
 	ngentot3 = f"Dalvik/2.1.0 (Linux; U; Android 9; Nexus 6P Build/0PM5.{str(rr(111111,199999))}.001) [FBAN/MessengerLite;FBAV/{str(rr(120,150))}.0.0.2.{str(rr(110,150))};FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/{str(rr(200000000,299999999))};FBCR/AXIS;FBMF/Vision;FBBD/Vision;FBDV/Vision3;FBSV/9;FBCA/arm64-v8a:null;FBDM/"+"(density-2.54375,width=720,height-1600);]"
+
 	if ngentot3 in ngentott:pass
+
 	else:ngentott.append(ngentot3)
+
 	ngentot4 = f"Dalvik/2.1.0 (Linux; U; Android 5.0; RMX3516 Build/PPR1.{str(rr(111111,199999))}.001) [FBAN/MessengerLite;FBAV/{str(rr(120,150))}.0.0.2.{str(rr(110,150))};FBPN/com.facebook.mlite;FBLC/in_ID;FBBV/{str(rr(200000000,299999999))};FBCR/IndosatOoredoo;FBMF/Realme;FBBD/Realme;FBDV/RMX3516;FBSV/9;FBCA/arm64-v8a:null;FBDM/"+"(density=2.0,width=720,height=1412};]"
+
 	if ngentot4 in ngentot4:pass
+
 	else:ngentott.append(ngentot4)
 
 def kontol():
